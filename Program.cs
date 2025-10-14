@@ -4,7 +4,7 @@ class Fraction
 {
     protected double a1;
 
-    // Безпечне зчитування числа з консолі
+    // Безпечне зчитування числа з консолілолол
     protected double ReadDouble(string message)
     {
         double value;
@@ -112,5 +112,6 @@ class Program
         return value;
     }
 }
+
 
 
